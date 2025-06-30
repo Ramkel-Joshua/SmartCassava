@@ -1,0 +1,148 @@
+[
+    {
+        "image": "106785011.jpg",
+        "predicted_class": "CBSD",
+        "confidence": 89.51,
+        "severity": "severe",
+        "recommendation": "Severe CBSD infection. Replace infected plants and implement vector control measures urgently."
+    },
+    {
+        "image": "1220197.jpg",
+        "predicted_class": "CGM",
+        "confidence": 49.49,
+        "severity": "mild",
+        "recommendation": "Mild CGM infestation. Use insecticidal soaps and encourage natural predators in your farm."
+    },
+    {
+        "image": "124731659.jpg",
+        "predicted_class": "CBB",
+        "confidence": 73.78,
+        "severity": "moderate",
+        "recommendation": "Moderate CBB infection detected. Increase fungicide application frequency and improve field sanitation."
+    },
+    {
+        "image": "125475896.jpg",
+        "predicted_class": "Healthy",
+        "confidence": 38.39,
+        "recommendation": "Your plant looks healthy. Keep monitoring regularly to maintain its condition."
+    },
+    {
+        "image": "135254587.jpg",
+        "predicted_class": "CMD",
+        "confidence": 54.02,
+        "severity": "moderate",
+        "recommendation": "Your cassava plant has moderate CMD symptoms. Consider applying recommended pesticides and consult with local agronomists."
+    },
+    {
+        "image": "206432986.jpg",
+        "predicted_class": "Healthy",
+        "confidence": 69.46,
+        "recommendation": "Your plant looks healthy. Keep monitoring regularly to maintain its condition."
+    },
+    {
+        "image": "226533928.jpg",
+        "predicted_class": "Healthy",
+        "confidence": 64.93,
+        "recommendation": "Your plant looks healthy. Keep monitoring regularly to maintain its condition."
+    },
+    {
+        "image": "236428559.jpg",
+        "predicted_class": "Healthy",
+        "confidence": 94.96,
+        "recommendation": "Your plant looks healthy. Keep monitoring regularly to maintain its condition."
+    },
+    {
+        "image": "243194540.jpg",
+        "predicted_class": "Healthy",
+        "confidence": 69.74,
+        "recommendation": "Your plant looks healthy. Keep monitoring regularly to maintain its condition."
+    },
+    {
+        "image": "24632378.jpg",
+        "predicted_class": "CGM",
+        "confidence": 89.73,
+        "severity": "severe",
+        "recommendation": "Severe CGM damage. Immediate insecticide treatment and cultural control measures are necessary."
+    },
+    {
+        "image": "27376376.jpg",
+        "predicted_class": "Healthy",
+        "confidence": 93.54,
+        "recommendation": "Your plant looks healthy. Keep monitoring regularly to maintain its condition."
+    },
+    {
+        "image": "318471258.jpg",
+        "predicted_class": "CBSD",
+        "confidence": 41.32,
+        "severity": "mild",
+        "recommendation": "Mild CBSD symptoms noticed. Monitor the plant closely and remove affected tubers at harvest."
+    },
+    {
+        "image": "326197492.jpg",
+        "predicted_class": "CBSD",
+        "confidence": 99.68,
+        "severity": "severe",
+        "recommendation": "Severe CBSD infection. Replace infected plants and implement vector control measures urgently."
+    },
+    {
+        "image": "403458333.jpg",
+        "predicted_class": "CBSD",
+        "confidence": 70.88,
+        "severity": "moderate",
+        "recommendation": "Moderate CBSD symptoms detected. Use certified disease-free planting materials and control whitefly vectors."
+    },
+    {
+        "image": "457405364.jpg",
+        "predicted_class": "CBSD",
+        "confidence": 99.61,
+        "severity": "severe",
+        "recommendation": "Severe CBSD infection. Replace infected plants and implement vector control measures urgently."
+    },
+    {
+        "image": "473823142.jpg",
+        "predicted_class": "Healthy",
+        "confidence": 75.16,
+        "recommendation": "Your plant looks healthy. Keep monitoring regularly to maintain its condition."
+    },
+    {
+        "image": "486370102.jpg",
+        "predicted_class": "CMD",
+        "confidence": 85.61,
+        "severity": "severe",
+        "recommendation": "Severe CMD detected. Immediate action is required: remove severely affected plants and apply disease management practices."
+    },
+    {
+        "image": "584853244.jpg",
+        "predicted_class": "Healthy",
+        "confidence": 77.6,
+        "recommendation": "Your plant looks healthy. Keep monitoring regularly to maintain its condition."
+    },
+    {
+        "image": "60038493.jpg",
+        "predicted_class": "CBB",
+        "confidence": 58.92,
+        "severity": "moderate",
+        "recommendation": "Moderate CBB infection detected. Increase fungicide application frequency and improve field sanitation."
+    },
+    {
+        "image": "670606517.jpg",
+        "predicted_class": "CBSD",
+        "confidence": 84.93,
+        "severity": "severe",
+        "recommendation": "Severe CBSD infection. Replace infected plants and implement vector control measures urgently."
+    },
+    {
+        "image": "984737438734.jpg",
+        "predicted_class": "CBB",
+        "confidence": 69.52,
+        "severity": "moderate",
+        "recommendation": "Moderate CBB infection detected. Increase fungicide application frequency and improve field sanitation."
+    },
+    {
+        "image": "cgm.png",
+        "predicted_class": "CGM",
+        "confidence": 92.49,
+        "severity": "severe",
+        "recommendation": "Severe CGM damage. Immediate insecticide treatment and cultural control measures are necessary."
+    }
+]
