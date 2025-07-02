@@ -1,0 +1,37 @@
+{
+    "CMD": {
+        "severity": {
+            "mild": "Your cassava plant shows mild signs of CMD. Remove affected leaves and ensure proper spacing to reduce spread.",
+            "moderate": "Your cassava plant has moderate CMD symptoms. Consider applying recommended pesticides and consult with local agronomists.",
+            "severe": "Severe CMD detected. Immediate action is required: remove severely affected plants and apply disease management practices."
+        },
+        "recommendation": "Manage CMD by removing infected parts and maintaining field hygiene."
+    },
+    "CBSD": {
+        "severity": {
+            "mild": "Mild CBSD symptoms noticed. Monitor the plant closely and remove affected tubers at harvest.",
+            "moderate": "Moderate CBSD symptoms detected. Use certified disease-free planting materials and control whitefly vectors.",
+            "severe": "Severe CBSD infection. Replace infected plants and implement vector control measures urgently."
+        },
+        "recommendation": "Prevent CBSD by using clean planting materials and controlling vectors."
+    },
+    "CBB": {
+        "severity": {
+            "mild": "Mild CBB symptoms present. Prune affected areas and apply copper-based fungicides as needed.",
+            "moderate": "Moderate CBB infection detected. Increase fungicide application frequency and improve field sanitation.",
+            "severe": "Severe CBB damage. Consider replanting and intensify disease control strategies."
+        },
+        "recommendation": "Control CBB with regular fungicide sprays and good agricultural practices."
+    },
+    "CGM": {
+        "severity": {
+            "mild": "Mild CGM infestation. Use insecticidal soaps and encourage natural predators in your farm.",
+            "moderate": "Moderate CGM infestation detected. Apply appropriate insecticides and monitor regularly.",
+            "severe": "Severe CGM damage. Immediate insecticide treatment and cultural control measures are necessary."
+        },
+        "recommendation": "Manage CGM by monitoring pest levels and applying insecticides when necessary."
+    },
+    "Healthy": {
+        "recommendation": "Your plant looks healthy. Keep monitoring regularly to maintain its condition."
+    }
+}
